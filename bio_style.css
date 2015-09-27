@@ -1,0 +1,30 @@
+/* Simple Style Sheet for bio.html */
+
+h1 {
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 36px;
+}
+
+.bazinga {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 16px;
+}
+
+body {
+	background-color: #FFFAF0;
+	font-family: "Arial";
+}
+
+.specialtext {
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.biotitles {
+	font-weight: bold;
+	color: blue;
+	font-size: 18px;
+}
